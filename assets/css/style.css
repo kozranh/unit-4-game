@@ -1,0 +1,44 @@
+body {
+    background-image: url("http://elevant.capital/wp-content/uploads/2018/08/Elevant-Capital-BMicon.png");
+  }
+  
+  @font-face {
+    font-family: 'Baloo Bhai', cursive;
+      src: url("BigMouth.otf");
+  }
+  
+  .BigMouth {
+    width: 800px;
+    height: 800px;
+
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: 'Baloo Bhai', cursive;
+  }
+  
+  p {
+    text-align: center;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 20px;
+  }
+  
+  h2 {
+    text-align: center;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 20px;
+  }
+  
+  div {
+    text-align: center;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 20px;
+  }
+  
+  h3 {
+    text-align: center;
+    font-family: 'Baloo Bhai', cursive;
+    font-size: 20px;
+  }
+  
